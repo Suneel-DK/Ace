@@ -1,6 +1,6 @@
 name: ace_chat
 description: A Gemini-powered chatbot UI built with Flutter. Custom knowledge base, bot naming, and theme toggle support.
-version: 1.0.0
+version: 1.1.0
 homepage: https://github.com/Suneel-DK/Ace
 
 environment:

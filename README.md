@@ -21,7 +21,7 @@ Add the package to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  ace_chat: ^1.0.0
+  ace_chat: ^1.1.0
 ```
 
 Then, fetch the package using:

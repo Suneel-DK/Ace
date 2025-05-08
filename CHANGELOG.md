@@ -6,3 +6,8 @@
 - Custom knowledge base input
 - Dynamic bot naming
 - Beautiful Flutter chat UI with animations
+
+## [1.1.0]
+
+### Added
+- Bug Fixes
